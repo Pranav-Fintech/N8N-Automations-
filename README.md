@@ -28,5 +28,4 @@ These workflows were built to automate real-world scenarios and can be imported 
 
 ---
 
-## 📂 Folder Structure
 
