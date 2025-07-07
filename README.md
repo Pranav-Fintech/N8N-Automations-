@@ -1,3 +1,6 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/Pranav-Fintech/N8N-Automations-?style=social)
+![License](https://img.shields.io/github/license/Pranav-Fintech/N8N-Automations-)
+
 # 🔗 N8N Automations
 
 A curated collection of powerful and practical N8N automations designed to streamline common workflows using webhooks, scheduling, integrations, and conditional logic.
