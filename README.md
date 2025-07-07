@@ -1,5 +1,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Pranav-Fintech/N8N-Automations-?style=social)
 ![License](https://img.shields.io/github/license/Pranav-Fintech/N8N-Automations-)
+![Made with N8N](https://img.shields.io/badge/Made%20with-n8n-7E5BEF?logo=n8n&logoColor=white&style=flat)
 
 # 🔗 N8N Automations
 
